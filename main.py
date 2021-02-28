@@ -4,7 +4,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 ACCOUNT_EMAIL = "akshit.gaur1214@gmail.com"
-ACCOUNT_PASSWORD = "Shiva@1414"
+ACCOUNT_PASSWORD = "*******"
 PHONE = "8860936422"
 
 chrome_driver_path = "C:\devlopment\chromedriver_win32\chromedriver.exe"
